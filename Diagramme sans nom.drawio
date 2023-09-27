@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T08:10:18.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="yOF9KpxipQ6JjoKmmpsY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T08:46:16.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NO6VRyRDIG8uwN-NvMLC" version="21.8.2" type="github">
   <diagram name="Page-1" id="EnUkhoSyPBvckiIhh7cr">
-    <mxGraphModel>
+    <mxGraphModel dx="988" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-1" target="fwzfC8KAfnQSV-QxvWUr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-1" target="fwzfC8KAfnQSV-QxvWUr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Le joueur a choisi Pair ?&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="420" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-2" target="fwzfC8KAfnQSV-QxvWUr-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Début Du&amp;nbsp;&lt;br&gt;Jeu&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-3" target="fwzfC8KAfnQSV-QxvWUr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Prendre une coupe ainsi que 2 dés&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-4" target="fwzfC8KAfnQSV-QxvWUr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;On melange les dés dans la coupe&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-5" target="fwzfC8KAfnQSV-QxvWUr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Les paris commence&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-6" target="fwzfC8KAfnQSV-QxvWUr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Le Maitre du jeu montre les dés dans la coupe&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-7" target="fwzfC8KAfnQSV-QxvWUr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;On pose la coupe avec les dés a l&#39;envers au sol&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fwzfC8KAfnQSV-QxvWUr-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="460" as="sourcePoint" />
+            <mxPoint x="550" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="666" y="461" />
+              <mxPoint x="690" y="461" />
+              <mxPoint x="690" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-8" value="Han / Impair" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-9" target="fwzfC8KAfnQSV-QxvWUr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Chõ / Pair&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-10" value="Le joueur&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;souhaite&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;recommencé ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-11" target="fwzfC8KAfnQSV-QxvWUr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-11" value="On souleve la coupe &lt;br&gt;et &lt;br&gt;compte les point" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="670" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-13" value="Oui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-15" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-18" value="Le joueur a t&#39;il gagné ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-20" value="" style="rhombus;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="90" y="800" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fwzfC8KAfnQSV-QxvWUr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fwzfC8KAfnQSV-QxvWUr-20" target="fwzfC8KAfnQSV-QxvWUr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
